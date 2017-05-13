@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "E:\\NewProject\\TestMain\\m\\miniIMUAndroid\\app\\build\\intermediates\\res\\merged\\debug\\layout\\device_list.xml",
+        "source": "E:\\NewProject\\TestMain\\m\\miniIMUAndroid\\app\\src\\main\\res\\layout\\device_list.xml"
+    },
+    {
+        "merged": "E:\\NewProject\\TestMain\\m\\miniIMUAndroid\\app\\build\\intermediates\\res\\merged\\debug\\layout\\newpage1.xml",
+        "source": "E:\\NewProject\\TestMain\\m\\miniIMUAndroid\\app\\src\\main\\res\\layout\\newpage1.xml"
+    },
+    {
+        "merged": "E:\\NewProject\\TestMain\\m\\miniIMUAndroid\\app\\build\\intermediates\\res\\merged\\debug\\layout\\newlayout.xml",
+        "source": "E:\\NewProject\\TestMain\\m\\miniIMUAndroid\\app\\src\\main\\res\\layout\\newlayout.xml"
+    },
+    {
+        "merged": "E:\\NewProject\\TestMain\\m\\miniIMUAndroid\\app\\build\\intermediates\\res\\merged\\debug\\layout\\device_name.xml",
+        "source": "E:\\NewProject\\TestMain\\m\\miniIMUAndroid\\app\\src\\main\\res\\layout\\device_name.xml"
+    },
+    {
+        "merged": "E:\\NewProject\\TestMain\\m\\miniIMUAndroid\\app\\build\\intermediates\\res\\merged\\debug\\layout\\newbackground.xml",
+        "source": "E:\\NewProject\\TestMain\\m\\miniIMUAndroid\\app\\src\\main\\res\\layout\\newbackground.xml"
+    },
+    {
+        "merged": "E:\\NewProject\\TestMain\\m\\miniIMUAndroid\\app\\build\\intermediates\\res\\merged\\debug\\layout\\newpage2.xml",
+        "source": "E:\\NewProject\\TestMain\\m\\miniIMUAndroid\\app\\src\\main\\res\\layout\\newpage2.xml"
+    }
+]

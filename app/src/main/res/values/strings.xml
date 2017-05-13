@@ -1,0 +1,22 @@
+<resources>
+
+    <string name="app_name">我的传感器</string>
+    <string name="app_about">这个软件用于连接JY901姿势测量传感器，通过传感器控制手机的操作，如音乐播放、电话接听。\n
+        \n开发者：暨南大学\n\n版本：1.0.0</string>
+    
+    <!--  BluetoothChat -->
+
+    <!--  DeviceListActivity -->
+    <string name="scanning">搜索设备...</string>
+    <string name="select_device">选择一个设备</string>
+    <string name="none_paired">无已经匹配的设备</string>
+    <string name="none_found">未发现设备</string>
+    <string name="title_paired_devices">已匹配的设备</string>
+    <string name="title_other_devices">其他可匹配的设备</string>
+    <string name="button_scan">搜索设备</string>
+    
+    
+    <!-- Options Menu -->
+
+
+</resources>

@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/page2"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#606968"
+    android:visibility="invisible"
+    android:orientation="vertical">
+
+    <TextView
+        android:id="@+id/newpage2_title"
+        android:layout_width="match_parent"
+        android:layout_height="72dp"
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="10dp"
+        android:gravity="bottom|center"
+        android:paddingBottom="6dp"
+        android:text="拒接电话短信内容"
+        android:textColor="@android:color/background_light"
+        android:textSize="24sp" />
+
+    <EditText
+        android:id="@+id/editText"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight="1.0"
+        android:background="#FDFCF9"
+        android:ems="10"
+        android:gravity="top|left"
+        android:padding="20dp"
+        android:textColor="#4F4D4D" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="#FDFCF9"
+        android:gravity="center"
+        android:orientation="horizontal"
+        android:paddingBottom="8dp"
+        android:paddingTop="8dp">
+
+        <Button
+            android:id="@+id/page2_leftBn"
+            android:layout_width="42dp"
+            android:layout_height="42dp"
+            android:layout_marginRight="48dp"
+            android:background="@drawable/button_circle"
+            android:gravity="center"
+            android:paddingBottom="2dp"
+            android:text="←"
+            android:textColor="#404040"
+            android:textSize="25sp" />
+
+        <Button
+            android:id="@+id/page2_rightBn"
+            android:layout_width="42dp"
+            android:layout_height="42dp"
+            android:background="@drawable/button_circle"
+            android:paddingBottom="2dp"
+            android:text="✎"
+            android:textColor="#404040"
+            android:textSize="25sp" />
+    </LinearLayout>
+
+</LinearLayout>

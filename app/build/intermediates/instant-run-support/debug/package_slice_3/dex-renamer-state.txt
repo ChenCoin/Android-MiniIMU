@@ -1,0 +1,4 @@
+#Sun Mar 12 20:41:36 CST 2017
+base.0=E\:\\NewProject\\TestMain\\m\\miniIMUAndroid\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\5\\slice_3
+renamed.0=classes.dex
+file.0=E\:\\NewProject\\TestMain\\m\\miniIMUAndroid\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\5\\slice_3\\classes.dex

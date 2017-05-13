@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="E:\NewProject\TestMain\m\miniIMUAndroid\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="955cd3503f82b7ac5891f5b904331c33003c888e">
+        <dex dex="E:\NewProject\TestMain\m\miniIMUAndroid\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_d0ff2f945e3b46315fba21725c3d2f179348ce90\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\NewProject\TestMain\m\miniIMUAndroid\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="c82741bc129dd5f99f11a4ab8666ae24262053b6">
+        <dex dex="E:\NewProject\TestMain\m\miniIMUAndroid\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_10a42d235eb3ade7a735e081598b4eb4fb8a6cac\classes.dex" />
+    </item>
+
+</items>
