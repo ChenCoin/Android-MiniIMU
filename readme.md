@@ -1,4 +1,4 @@
-一个安卓的FTP客户端。包括基本的文件列表的显示，多种显示模式，多个主题，传输进度管理，使用MVP框架。
+项目通过连接MiniIMU传感器，接收传感器的加速度信息，进而控制音乐的播放与暂停，音量大小调节，短信发送等功能。
 
 ![运行结果](https://github.com/ChenCoin/Android-MiniIMU/blob/master/screenshot.png)
 
